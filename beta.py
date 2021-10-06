@@ -19,7 +19,7 @@ banner = Fore.GREEN + """
 ██    ██ ██      ██  ██ ██ ██ ██  ██  ██ ██    ██ 
  ██████  ███████ ██   ████ ██ ██      ██  ██████  
  """
-os.system('cls')
+os.system('clear')
 print(banner)
 print(Fore.YELLOW+" The Best Admin Panel Finder With Over 421 Links!")
 print("")
