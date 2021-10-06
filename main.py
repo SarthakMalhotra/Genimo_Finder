@@ -1,4 +1,5 @@
 #Credits To HackerSarthak
+#WINDOWS
 import requests
 import urllib
 from urllib.request import *
