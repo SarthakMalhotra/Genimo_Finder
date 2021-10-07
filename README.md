@@ -14,7 +14,7 @@ sudo apt-get install python3-pip
 git clone https://github.com/SarthakMalhotra/Genimo_Finder
 cd Genimo_Finder
 ls
-pip -r install requirements.txt
+pip install -r requirements.txt
 python3 beta.py
 ```
 
@@ -26,7 +26,7 @@ pkg install git
 git clone https://github.com/SarthakMalhotra/Genimo_Finder
 cd Genimo_Finder
 ls
-pip -r install requirements.txt
+pip install -r requirements.txt
 python3 beta.py
 ```
 
@@ -35,7 +35,7 @@ python3 beta.py
 git clone https://github.com/SarthakMalhotra/Genimo_Finder
 cd Genimo_Finder
 ls
-pip -r install requirements.txt
+pip install -r requirements.txt
 python3 main.py
 ```
 
